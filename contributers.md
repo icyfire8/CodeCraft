@@ -11,6 +11,7 @@
 | Himansh Arora           | Humanshere           | IIIT Allahabad                 | 
 | Himanshu Arora          | HimanshuArora-pixel  | IIIT Allahabad                 |
 | Shambhu                 | Zarxeon              | IIIT Allahabad                 |
+| Abhishek Tripathi       | Astinel-prime        | IIIT Allahabad                 |
 
 
 <!-- ADD ABOVE THIS -->
