@@ -1,4 +1,4 @@
-
+Ansh Patel ansh54052 IIIT Allahabad
 | Name                   | GitHub ID           | College Name                   |
 | ---------------------- | ------------------- | ------------------------------ |
 | Asra Tabassum          | Tabassumasra05      | IIIT Allahabad                 |
