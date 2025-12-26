@@ -23,5 +23,6 @@
 | Akshat Parmar           | AkshaTGA             | IIIT Allahabad                 |
 | Ishan Tripathi          | ishantripathi64      | IIIT Allahabad                 |
 | Ayush Mishra            | ayush-mg             | IIIT Allahabad                 | 
+| Kamakshi Gupta          | 29kamakshigupta      | IIIT Allahabad                 |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty41 | Reyansh College | -->
